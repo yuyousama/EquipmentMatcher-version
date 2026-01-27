@@ -1,0 +1,2 @@
+# EquipmentMatcher-version
+version check

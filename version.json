@@ -1,8 +1,6 @@
 {
-  "Version": "26.1.27",
-  "ReleaseDate": "2026-01-27",
-  "LastID": 745,
-  "Changelog": "初次发布。"
+  "Version": "26.2.15",
+  "ReleaseDate": "2026-02-15",
+  "LastID": 749,
+  "Changelog": "详见ChangeLog.txt。另外，增加了度盘下载链接，在B站视频教程评论区。"
 }
-
-
